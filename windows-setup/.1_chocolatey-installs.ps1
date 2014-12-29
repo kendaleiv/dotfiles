@@ -4,6 +4,7 @@ choco install `
 7zip.install                           ,
 atom                                   ,
 audacity                               ,
+ctags                                  ,
 curl                                   ,
 cutepdf                                ,
 docker                                 ,
