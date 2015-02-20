@@ -2,7 +2,7 @@
 
 :: Install Chocolatey first
 
-choco install                          ^
+choco install -y                       ^
 7zip.commandline                       ^
 7zip.install                           ^
 atom                                   ^

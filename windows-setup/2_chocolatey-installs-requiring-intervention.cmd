@@ -5,7 +5,7 @@
 :: These packages are in a seperate file because they require
 :: intervention to complete installation.
 
-choco install  ^
-docker         ^
-pdfsam.install ^
-pnggauntlet    ^
+choco install -y ^
+docker           ^
+pdfsam.install   ^
+pnggauntlet      ^

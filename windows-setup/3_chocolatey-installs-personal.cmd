@@ -4,7 +4,7 @@
 
 :: truecrypt requires clicks
 
-choco install             ^
+choco install -y          ^
 keepass-keepasshttp       ^
 libreoffice               ^
 visualstudiocommunity2013 ^
