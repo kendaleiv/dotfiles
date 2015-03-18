@@ -17,7 +17,6 @@ filezilla                              ^
 firefox                                ^
 foxitreader                            ^
 git.install                            ^
-gitextensions                          ^
 gnuwin                                 ^
 google-chrome-x64                      ^
 greenshot                              ^
