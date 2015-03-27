@@ -26,13 +26,13 @@
 [difftool]
   prompt = false
 [difftool "kdiff3"]
-  path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+  path = C:/Program Files/KDiff3/kdiff3.exe
 [merge]
   tool = kdiff3
 [mergetool]
   keepBackup = false
 [mergetool "kdiff3"]
-  path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+  path = C:/Program Files/KDiff3/kdiff3.exe
 [gui]
   gcwarning = false
 [color]
