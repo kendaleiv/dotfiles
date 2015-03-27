@@ -22,6 +22,7 @@ google-chrome-x64                      ^
 greenshot                              ^
 grepwin                                ^
 heroku-toolbelt                        ^
+kdiff3                                 ^
 keepass.install                        ^
 lockhunter                             ^
 mssqlserver2014express                 ^
