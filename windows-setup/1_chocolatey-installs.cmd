@@ -44,7 +44,6 @@ screentogif                            ^
 skype                                  ^
 spotify                                ^
 sysinternals                           ^
-thunderbird                            ^
 vlc                                    ^
 wcat                                   ^
 windirstat                             ^
