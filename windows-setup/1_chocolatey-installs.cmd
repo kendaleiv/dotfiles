@@ -20,7 +20,6 @@ filezilla                              ^
 firefox                                ^
 foxitreader                            ^
 git.install                            ^
-gnuwin                                 ^
 greenshot                              ^
 grepwin                                ^
 heroku-toolbelt                        ^
