@@ -3,6 +3,9 @@
 :: Install Chocolatey first
 
 choco install -y                       ^
+google-chrome-x64                      ^
+keepass.install                        ^
+spotify                                ^
 7zip.commandline                       ^
 7zip.install                           ^
 atom                                   ^
@@ -18,15 +21,11 @@ firefox                                ^
 foxitreader                            ^
 git.install                            ^
 gnuwin                                 ^
-google-chrome-x64                      ^
 greenshot                              ^
 grepwin                                ^
 heroku-toolbelt                        ^
 kdiff3                                 ^
-keepass.install                        ^
 lockhunter                             ^
-mssqlserver2014express                 ^
-mssqlservermanagementstudio2014express ^
 nodejs.install                         ^
 notepadplusplus                        ^
 nuget.commandline                      ^
@@ -42,7 +41,6 @@ ruby.devkit                            ^
 screenhero                             ^
 screentogif                            ^
 skype                                  ^
-spotify                                ^
 sysinternals                           ^
 vlc                                    ^
 wcat                                   ^
@@ -50,3 +48,5 @@ windirstat                             ^
 winmerge                               ^
 winscp                                 ^
 wireshark                              ^
+mssqlserver2014express                 ^
+mssqlservermanagementstudio2014express ^
