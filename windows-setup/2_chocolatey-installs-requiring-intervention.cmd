@@ -6,6 +6,5 @@
 :: intervention to complete installation.
 
 choco install -y ^
-docker           ^
 pdfsam.install   ^
 pnggauntlet      ^
