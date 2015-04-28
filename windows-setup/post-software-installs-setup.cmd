@@ -26,14 +26,6 @@ echo.
 copy "..\.gitconfig" "C:%HOMEPATH%\.gitconfig"
 
 echo.
-echo ## RubyGems
-echo.
-
-call gem update --system
-call gem install bundler
-call gem install jekyll
-
-echo.
 echo ## npm installs
 echo.
 
