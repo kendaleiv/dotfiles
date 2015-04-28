@@ -35,8 +35,8 @@ poshgit                                ^
 procexp                                ^
 putty                                  ^
 python2                                ^
-ruby1.9                                ^
-ruby.devkit                            ^
+ruby                                   ^
+ruby2.devkit                           ^
 screenhero                             ^
 screentogif                            ^
 skype                                  ^

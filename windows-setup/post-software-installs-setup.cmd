@@ -29,10 +29,7 @@ echo.
 echo ## RubyGems
 echo.
 
-:: Using 2.0.3, see https://github.com/oneclick/rubyinstaller/issues/184#issuecomment-21310329
-:: The main objective is Jekyll works with the installed Chocolatey packages.
-call gem update --system 2.0.3
-
+call gem update --system
 call gem install bundler
 call gem install jekyll
 
@@ -40,20 +37,17 @@ echo.
 echo ## npm installs
 echo.
 
-npm install -g bower
-npm install -g grunt-cli
-npm install -g gulp
-npm install -g yo
+call npm install -g bower
+call npm install -g grunt-cli
+call npm install -g gulp
+call npm install -g yo
 
 echo.
 echo ## Generate SSH key
 echo.
 
-call ssh-keygen -f "id_rsa" -t rsa -N ""
-
 call mkdir "C:%HOMEPATH%\.ssh"
-call move "id_rsa" "C:%HOMEPATH%\.ssh\"
-call move "id_rsa.pub" "C:%HOMEPATH%\.ssh\"
+call ssh-keygen -f "C:%HOMEPATH%\.ssh\id_rsa" -t rsa -N ""
 
 echo.
 echo ## Windows updates
