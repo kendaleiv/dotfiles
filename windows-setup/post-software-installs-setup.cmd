@@ -46,6 +46,8 @@ call gem install bundler
 :: fix it after this script runs manually.
 call gem install jekyll
 
+call gem install travis
+
 echo.
 echo ## npm installs
 echo.
