@@ -35,7 +35,7 @@ pdftk                                  ^
 poshgit                                ^
 procexp                                ^
 putty                                  ^
-python2                                ^
+python                                 ^
 ruby                                   ^
 ruby2.devkit                           ^
 screenhero                             ^
