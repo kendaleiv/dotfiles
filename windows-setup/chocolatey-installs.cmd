@@ -42,6 +42,7 @@ screenhero                             ^
 screentogif                            ^
 skype                                  ^
 sysinternals                           ^
+visualstudiocode                       ^
 vlc                                    ^
 wcat                                   ^
 windirstat                             ^
