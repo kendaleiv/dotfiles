@@ -41,6 +41,7 @@ ruby2.devkit                           ^
 screenhero                             ^
 screentogif                            ^
 skype                                  ^
+slack                                  ^
 sysinternals                           ^
 visualstudiocode                       ^
 vlc                                    ^
