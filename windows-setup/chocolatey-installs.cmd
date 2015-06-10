@@ -24,6 +24,7 @@ greenshot                              ^
 grepwin                                ^
 heroku-toolbelt                        ^
 kdiff3                                 ^
+linqpad4                               ^
 lockhunter                             ^
 nodejs.install                         ^
 notepadplusplus                        ^
