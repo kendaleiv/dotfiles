@@ -12,3 +12,8 @@
 
 - CodeMaid
 - EditorConfig
+
+# Misc
+
+- Configure f.lux color temperature
+- Set OneDrive to sync all files locally
