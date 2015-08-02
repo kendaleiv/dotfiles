@@ -5,4 +5,4 @@
 choco install -y          ^
 keepass-keepasshttp       ^
 libreoffice               ^
-visualstudiocommunity2013 ^
+visualstudio2015community ^
