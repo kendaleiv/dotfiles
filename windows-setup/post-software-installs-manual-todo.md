@@ -6,7 +6,8 @@
 # Install Chrome extensions
 
 - https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae
-- https://chrome.google.com/webstore/detail/auto-hd-for-youtube/koiaokdomkpjdgniimnkhgbilbjgpeak
+- https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+- https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd
 
 # Install Visual Studio extensions
 
