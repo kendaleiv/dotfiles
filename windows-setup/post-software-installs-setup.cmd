@@ -59,6 +59,20 @@ gulp                ^
 yo                  ^
 
 echo.
+echo ## Atom
+echo.
+
+call apm install               ^
+atom-beautify                  ^
+editorconfig                   ^
+linter                         ^
+linter-eslint                  ^
+merge-conflicts                ^
+pigments                       ^
+react                          ^
+sublime-style-column-selection ^
+
+echo.
 echo ## Generate SSH key
 echo.
 
