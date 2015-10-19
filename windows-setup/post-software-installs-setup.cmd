@@ -52,10 +52,11 @@ echo.
 echo ## npm installs
 echo.
 
-call npm install -g bower
-call npm install -g grunt-cli
-call npm install -g gulp
-call npm install -g yo
+call npm install -g ^
+bower               ^
+grunt-cli           ^
+gulp                ^
+yo                  ^
 
 echo.
 echo ## Generate SSH key
