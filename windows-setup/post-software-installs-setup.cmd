@@ -27,6 +27,12 @@ copy "..\.gitconfig" "C:%HOMEPATH%\.gitconfig"
 copy "..\.gemrc" "C:%HOMEPATH%\.gemrc"
 
 echo.
+echo ## Copy update-packages.cmd
+echo.
+
+copy "update-packages.cmd" "C:%HOMEPATH%\update-packages.cmd"
+
+echo.
 echo ## Ruby
 echo.
 
