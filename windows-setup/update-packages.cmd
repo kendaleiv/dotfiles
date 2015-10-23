@@ -10,7 +10,7 @@ echo.
 echo ## Atom packages
 echo.
 
-call apm upgrade
+call apm upgrade --no-confirm
 
 echo.
 echo ## npm packages
