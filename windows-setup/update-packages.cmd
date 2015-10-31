@@ -17,3 +17,9 @@ echo ## npm packages
 echo.
 
 call npm update -g
+
+echo.
+echo ## RubyGems
+echo.
+
+call gem update
