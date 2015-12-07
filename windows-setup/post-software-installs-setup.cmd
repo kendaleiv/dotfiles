@@ -70,9 +70,11 @@ echo.
 
 call apm install               ^
 atom-beautify                  ^
+atom-typescript                ^
 editorconfig                   ^
 linter                         ^
 linter-eslint                  ^
+linter-tslint                  ^
 merge-conflicts                ^
 pigments                       ^
 react                          ^
