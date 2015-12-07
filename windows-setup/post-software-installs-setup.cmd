@@ -60,8 +60,16 @@ echo.
 
 call npm install -g ^
 bower               ^
+eslint              ^
 grunt-cli           ^
 gulp                ^
+http-server         ^
+karma-cli           ^
+protractor          ^
+typescript          ^
+tslint              ^
+webpack             ^
+webpack-dev-server  ^
 yo                  ^
 
 echo.
