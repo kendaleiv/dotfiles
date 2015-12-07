@@ -10,8 +10,8 @@ spotify                                ^
 7zip.install                           ^
 atom                                   ^
 audacity                               ^
+cmder                                  ^
 ctags                                  ^
-curl                                   ^
 cutepdf                                ^
 dotpeek                                ^
 f.lux                                  ^
