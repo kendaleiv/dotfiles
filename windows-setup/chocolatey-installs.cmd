@@ -31,7 +31,6 @@ nugetpackageexplorer                   ^
 paint.net                              ^
 papercut                               ^
 pdftk                                  ^
-poshgit                                ^
 procexp                                ^
 putty                                  ^
 python                                 ^
