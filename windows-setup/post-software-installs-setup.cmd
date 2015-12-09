@@ -98,7 +98,6 @@ linter-eslint                  ^
 linter-tslint                  ^
 merge-conflicts                ^
 pigments                       ^
-react                          ^
 sublime-style-column-selection ^
 
 echo.
