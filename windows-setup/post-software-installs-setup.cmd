@@ -42,6 +42,7 @@ echo.
 echo ## Atom configuration
 echo.
 
+mkdir "C:%HOMEPATH%\.atom\"
 copy "..\.atom\*.*" "C:%HOMEPATH%\.atom" /Y
 
 echo.
