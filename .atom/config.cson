@@ -1,0 +1,12 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+    autoHideMenuBar: true
+  editor:
+    softWrap: true
+    showLineNumbers: false

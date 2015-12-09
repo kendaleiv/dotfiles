@@ -39,6 +39,12 @@ echo.
 copy "cmder\config\*.*" "C:\tools\cmder\config" /Y
 
 echo.
+echo ## Atom configuration
+echo.
+
+copy "..\.atom\*.*" "C:%HOMEPATH%\.atom" /Y
+
+echo.
 echo ## Ruby
 echo.
 
@@ -79,7 +85,7 @@ webpack-dev-server  ^
 yo                  ^
 
 echo.
-echo ## Atom
+echo ## Atom packages
 echo.
 
 call apm install               ^
