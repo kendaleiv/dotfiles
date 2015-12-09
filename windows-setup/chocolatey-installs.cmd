@@ -11,7 +11,6 @@ spotify                                ^
 atom                                   ^
 audacity                               ^
 cmder                                  ^
-ctags                                  ^
 cutepdf                                ^
 dotpeek                                ^
 f.lux                                  ^
