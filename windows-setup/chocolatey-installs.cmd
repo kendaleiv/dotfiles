@@ -17,7 +17,6 @@ f.lux                                  ^
 fiddler4                               ^
 filezilla                              ^
 firefox                                ^
-foxitreader                            ^
 git.install                            ^
 greenshot                              ^
 grepwin                                ^
