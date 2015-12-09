@@ -33,6 +33,12 @@ echo.
 copy "update-packages.cmd" "C:%HOMEPATH%\update-packages.cmd"
 
 echo.
+echo ## cmder
+echo.
+
+copy "cmder\config\*.*" "C:\tools\cmder\config" /Y
+
+echo.
 echo ## Ruby
 echo.
 
