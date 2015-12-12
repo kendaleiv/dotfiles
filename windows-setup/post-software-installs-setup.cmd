@@ -79,8 +79,8 @@ echo ## This doesn't include
 echo ## "For 64-bit builds of node and native modules you will also need the Windows 7 64-bit SDK" from https://github.com/nodejs/node-gyp#installation
 echo.
 
-set GYP_MSVS_VERSION 2015
-setx GYP_MSVS_VERSION 2015
+set GYP_MSVS_VERSION "2015"
+setx GYP_MSVS_VERSION "2015"
 
 call npm config set python C:\tools\python2\python.exe
 
