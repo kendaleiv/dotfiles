@@ -30,7 +30,6 @@ nuget.commandline                      ^
 nugetpackageexplorer                   ^
 paint.net                              ^
 papercut                               ^
-pdftk                                  ^
 procexp                                ^
 putty                                  ^
 python                                 ^
