@@ -32,6 +32,7 @@ papercut                               ^
 procexp                                ^
 putty                                  ^
 python                                 ^
+python2                                ^
 ruby                                   ^
 ruby2.devkit                           ^
 screenhero                             ^
