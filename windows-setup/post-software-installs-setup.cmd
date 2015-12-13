@@ -125,9 +125,3 @@ echo.
 
 call mkdir "C:%HOMEPATH%\.ssh"
 call ssh-keygen -f "C:%HOMEPATH%\.ssh\id_rsa" -t rsa -N ""
-
-echo.
-echo ## Windows updates
-echo.
-
-wuauclt /detectnow
