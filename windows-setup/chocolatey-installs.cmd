@@ -47,5 +47,3 @@ windirstat                             ^
 winmerge                               ^
 winscp                                 ^
 wireshark                              ^
-mssqlserver2014express                 ^
-mssqlservermanagementstudio2014express ^
