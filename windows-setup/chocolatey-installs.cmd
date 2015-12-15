@@ -13,7 +13,6 @@ audacity                               ^
 cmder                                  ^
 cutepdf                                ^
 dotpeek                                ^
-f.lux                                  ^
 fiddler4                               ^
 filezilla                              ^
 firefox                                ^
