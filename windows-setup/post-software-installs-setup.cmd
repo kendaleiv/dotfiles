@@ -100,6 +100,7 @@ karma-cli           ^
 protractor          ^
 typescript          ^
 tslint              ^
+typings             ^
 webpack             ^
 webpack-dev-server  ^
 yo                  ^
