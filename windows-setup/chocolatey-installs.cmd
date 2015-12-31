@@ -32,6 +32,7 @@ procexp                                ^
 putty                                  ^
 python                                 ^
 python2                                ^
+quicktime                              ^
 ruby                                   ^
 ruby2.devkit                           ^
 screenhero                             ^
