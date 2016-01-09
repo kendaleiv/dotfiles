@@ -7,4 +7,3 @@ f.lux                     ^
 googledrive               ^
 keepass-keepasshttp       ^
 libreoffice               ^
-visualstudio2015community ^
