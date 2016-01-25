@@ -4,6 +4,5 @@
 
 choco install -y          ^
 f.lux                     ^
-googledrive               ^
 keepass-keepasshttp       ^
 libreoffice               ^
