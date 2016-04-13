@@ -8,7 +8,6 @@ keepass.install                        ^
 spotify                                ^
 7zip.commandline                       ^
 7zip.install                           ^
-atom                                   ^
 audacity                               ^
 cmder                                  ^
 cutepdf                                ^

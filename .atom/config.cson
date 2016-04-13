@@ -1,7 +1,0 @@
-"*":
-  welcome:
-    showOnStartup: false
-  core:
-    autoHideMenuBar: true
-  editor:
-    softWrap: true

@@ -33,13 +33,6 @@ echo.
 copy "update-packages.cmd" "C:%HOMEPATH%\update-packages.cmd"
 
 echo.
-echo ## Atom configuration
-echo.
-
-mkdir "C:%HOMEPATH%\.atom\"
-copy "..\.atom\*.*" "C:%HOMEPATH%\.atom" /Y
-
-echo.
 echo ## Ruby
 echo.
 
@@ -98,21 +91,6 @@ typings             ^
 webpack             ^
 webpack-dev-server  ^
 yo                  ^
-
-echo.
-echo ## Atom packages
-echo.
-
-call apm install               ^
-atom-beautify                  ^
-atom-typescript                ^
-editorconfig                   ^
-linter                         ^
-linter-eslint                  ^
-linter-tslint                  ^
-merge-conflicts                ^
-pigments                       ^
-sublime-style-column-selection ^
 
 echo.
 echo ## Generate SSH key
