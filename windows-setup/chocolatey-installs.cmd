@@ -5,7 +5,6 @@
 choco install -y                       ^
 googlechrome                           ^
 keepass.install                        ^
-spotify                                ^
 7zip.commandline                       ^
 7zip.install                           ^
 audacity                               ^
@@ -38,6 +37,7 @@ screenhero                             ^
 screentogif                            ^
 skype                                  ^
 slack                                  ^
+spotify                                ^
 sysinternals                           ^
 visualstudiocode                       ^
 vlc                                    ^
