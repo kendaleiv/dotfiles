@@ -39,6 +39,7 @@ skype                                  ^
 slack                                  ^
 spotify                                ^
 sysinternals                           ^
+vagrant                                ^
 visualstudiocode                       ^
 vlc                                    ^
 wcat                                   ^
