@@ -37,13 +37,8 @@ echo ## Ruby
 echo.
 
 call gem update --system
-
 call gem install bundler
-
-:: If the jekyll gem fails to install due a Ruby DevKit issue,
-:: fix it after this script runs manually.
 call gem install jekyll
-
 call gem install travis
 
 echo.
