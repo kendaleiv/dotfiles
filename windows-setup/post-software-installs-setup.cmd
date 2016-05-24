@@ -36,15 +36,7 @@ echo.
 echo ## Ruby
 echo.
 
-:: This isn't the best way to fix the SSL issue.
-:: It's not secure and requires interactively confirming adding an insecure source.
-:: But, it's convenient...
-:: http://stackoverflow.com/a/27447105
-call gem sources -r https://rubygems.org/
-call gem sources -a http://rubygems.org/
 call gem update --system
-call gem sources -r http://rubygems.org/
-call gem sources -a https://rubygems.org/
 
 call gem install bundler
 
