@@ -4,7 +4,6 @@
 
 choco install -y                       ^
 googlechrome                           ^
-keepass.install                        ^
 7zip.commandline                       ^
 7zip.install                           ^
 audacity                               ^
