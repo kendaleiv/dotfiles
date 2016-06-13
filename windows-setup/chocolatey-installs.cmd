@@ -47,3 +47,4 @@ windirstat                             ^
 winmerge                               ^
 winscp                                 ^
 wireshark                              ^
+sql-server-management-studio           ^
