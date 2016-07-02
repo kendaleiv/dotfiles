@@ -71,6 +71,7 @@ gulp-cli            ^
 http-server         ^
 karma-cli           ^
 protractor          ^
+rimraf              ^
 typescript          ^
 tslint              ^
 typings             ^
