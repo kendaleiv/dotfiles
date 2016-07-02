@@ -38,7 +38,6 @@ skype                                  ^
 slack                                  ^
 spotify                                ^
 sysinternals                           ^
-vagrant                                ^
 vim                                    ^
 visualstudiocode                       ^
 vlc                                    ^
