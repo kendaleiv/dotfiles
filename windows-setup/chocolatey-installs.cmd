@@ -25,6 +25,7 @@ nuget.commandline                      ^
 nugetpackageexplorer                   ^
 paint.net                              ^
 papercut                               ^
+postman                                ^
 procexp                                ^
 putty                                  ^
 python                                 ^
