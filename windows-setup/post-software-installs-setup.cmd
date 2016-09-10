@@ -65,18 +65,8 @@ echo ## npm installs
 echo.
 
 call npm install -g ^
-eslint              ^
-grunt-cli           ^
-gulp-cli            ^
 http-server         ^
-karma-cli           ^
-protractor          ^
 rimraf              ^
-typescript          ^
-tslint              ^
-typings             ^
-webpack             ^
-webpack-dev-server  ^
 yo                  ^
 
 echo.
