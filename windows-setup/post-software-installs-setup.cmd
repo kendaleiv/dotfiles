@@ -1,18 +1,6 @@
 @echo off
 
 echo.
-echo ## Set-ExecutionPolicy RemoteSigned -Force
-echo.
-
-@powershell -Command "Set-ExecutionPolicy RemoteSigned -Force"
-
-echo.
-echo ## PowerShell aliases
-echo.
-
-@powershell -Command "Add-Content $profile 'New-Alias g git'"
-
-echo.
 echo ## Set HOME user environment variable
 echo.
 
