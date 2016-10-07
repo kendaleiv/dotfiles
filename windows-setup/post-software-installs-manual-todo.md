@@ -3,10 +3,9 @@
 - High quality streaming
 - Enable Crossfade tracks
 
-# Install Chrome extensions
+# Install Chrome extension
 
 - https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
-- https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd
 
 # Install Visual Studio extensions
 
