@@ -11,3 +11,7 @@
 
 - CodeMaid
 - EditorConfig
+
+# Install Visual Studio Code extension
+
+- `ext install EditorConfig`
