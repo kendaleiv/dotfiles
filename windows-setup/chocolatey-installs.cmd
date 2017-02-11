@@ -20,6 +20,7 @@ inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
 lockhunter                             ^
+nodejs.install                         ^
 notepadplusplus                        ^
 nuget.commandline                      ^
 nugetpackageexplorer                   ^
@@ -48,9 +49,6 @@ winmerge                               ^
 winscp                                 ^
 wireshark                              ^
 sql-server-management-studio           ^
-
-choco install nodejs.install -version 6.9.1 -y
-choco pin add --name=nodejs.install
 
 :: Pin software that automatically updates
 choco pin add --name=docker-for-windows
