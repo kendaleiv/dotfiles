@@ -30,27 +30,12 @@ call gem install jekyll
 call gem install travis
 
 echo.
-echo ## Install / configure node-gyp (assumes python2 is installed at the Chocolatey package default location)
-echo ##
-echo ## Easy test if it's working: npm install -g bcrypt
-echo ##
-echo ## This may be broken, if nothing else it's a good starting point to work from.
-echo ## See https://github.com/nodejs/node-gyp#installation if this doesn't work.
-echo ##
-echo ## This doesn't include
-echo ## "For 64-bit builds of node and native modules you will also need the Windows 7 64-bit SDK" from https://github.com/nodejs/node-gyp#installation
-echo.
-
-set GYP_MSVS_VERSION "2015"
-setx GYP_MSVS_VERSION "2015"
-
-call npm config set python C:\tools\python2\python.exe
-
-call npm install -g node-gyp
-
-echo.
 echo ## npm installs
 echo.
+
+call npm install --global --production windows-build-tools
+call npm config set python C:\tools\python2
+call npm install -g node-gyp
 
 call npm install -g ^
 http-server         ^
