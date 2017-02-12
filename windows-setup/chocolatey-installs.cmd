@@ -50,7 +50,9 @@ winscp                                 ^
 wireshark                              ^
 sql-server-management-studio           ^
 
+::
 :: Pin software that automatically updates
+::
 choco pin add --name=docker-for-windows
 choco pin add --name=firefox
 choco pin add --name=googlechrome
