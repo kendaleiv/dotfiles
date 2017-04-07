@@ -20,7 +20,7 @@ inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
 lockhunter                             ^
-nodejs.install                         ^
+nodejs                                 ^
 notepadplusplus                        ^
 nuget.commandline                      ^
 nugetpackageexplorer                   ^
@@ -30,7 +30,6 @@ postman                                ^
 procexp                                ^
 putty                                  ^
 python                                 ^
-python2                                ^
 quicktime                              ^
 ruby                                   ^
 ruby2.devkit                           ^
