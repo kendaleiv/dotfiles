@@ -52,6 +52,12 @@ rimraf              ^
 yo                  ^
 
 echo.
+echo ## Visual Studio Code
+echo.
+
+call code --install-extension EditorConfig.EditorConfig
+
+echo.
 echo ## Generate SSH key
 echo.
 
