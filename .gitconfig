@@ -2,7 +2,7 @@
   name = Ken Dale
   email = ken@kendaleiv.com
 [core]
-  autocrlf = false
+  autocrlf = true
   ignorecase = false
 [alias]
   c = commit
