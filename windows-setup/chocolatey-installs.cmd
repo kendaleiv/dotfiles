@@ -36,7 +36,6 @@ screenhero                             ^
 screentogif                            ^
 skype                                  ^
 slack                                  ^
-spotify                                ^
 sysinternals                           ^
 vim                                    ^
 visualstudiocode                       ^
@@ -58,5 +57,7 @@ choco pin add --name=paint.net
 choco pin add --name=postman
 choco pin add --name=screenhero
 choco pin add --name=slack
-choco pin add --name=spotify
 choco pin add --name=visualstudiocode
+
+choco install -y spotify
+choco pin add --name=spotify
