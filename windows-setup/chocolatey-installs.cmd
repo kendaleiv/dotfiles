@@ -32,7 +32,6 @@ putty                                  ^
 python                                 ^
 quicktime                              ^
 ruby                                   ^
-ruby2.devkit                           ^
 screenhero                             ^
 screentogif                            ^
 skype                                  ^
