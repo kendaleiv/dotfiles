@@ -36,11 +36,6 @@ call npm install --global --production windows-build-tools
 call npm config set python C:\tools\python2
 call npm install -g node-gyp
 
-call npm install -g ^
-http-server         ^
-rimraf              ^
-yo                  ^
-
 echo.
 echo ## Visual Studio Code
 echo.
