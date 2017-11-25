@@ -35,6 +35,7 @@ ruby                                   ^
 screentogif                            ^
 skype                                  ^
 slack                                  ^
+sql-operations-studio                  ^
 sysinternals                           ^
 vim                                    ^
 visualstudiocode                       ^
