@@ -32,7 +32,6 @@ putty                                  ^
 python                                 ^
 quicktime                              ^
 ruby                                   ^
-screenhero                             ^
 screentogif                            ^
 skype                                  ^
 slack                                  ^
@@ -49,7 +48,6 @@ sql-server-management-studio           ^
 
 choco pin add --name=docker-for-windows
 choco pin add --name=googlechrome
-choco pin add --name=screenhero
 choco pin add --name=slack
 
 choco install -y spotify
