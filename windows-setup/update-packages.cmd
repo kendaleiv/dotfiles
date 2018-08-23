@@ -10,6 +10,7 @@ echo.
 echo ## npm packages
 echo.
 
+call npm install -g npm
 call npm update -g
 
 echo.
