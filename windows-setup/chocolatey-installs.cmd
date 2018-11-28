@@ -8,8 +8,9 @@ googlechrome-zenhub                    ^
 7zip.commandline                       ^
 7zip.install                           ^
 audacity                               ^
+azure-data-studio                      ^
 cutepdf                                ^
-docker-for-windows                     ^
+docker-desktop                         ^
 dotpeek                                ^
 fiddler                                ^
 filezilla                              ^
@@ -34,20 +35,18 @@ quicktime                              ^
 ruby                                   ^
 screentogif                            ^
 slack                                  ^
-sql-operations-studio                  ^
 sysinternals                           ^
 vim                                    ^
 vlc                                    ^
 wcat                                   ^
 windirstat                             ^
-winmerge                               ^
 winscp                                 ^
 wireshark                              ^
 
 choco install vscode --params "/NoDesktopIcon"
 choco install sql-server-management-studio
 
-choco pin add --name=docker-for-windows
+choco pin add --name=docker-desktop
 choco pin add --name=googlechrome
 choco pin add --name=slack
 
