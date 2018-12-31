@@ -18,7 +18,6 @@ echo.
 echo ## Ruby
 echo.
 
-call gem install bundler
 call gem install jekyll
 call gem install travis
 
