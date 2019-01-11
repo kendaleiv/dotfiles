@@ -44,6 +44,7 @@ winscp                                 ^
 wireshark                              ^
 
 choco install vscode --params "/NoDesktopIcon"
+choco install msys2 --params "/NoUpdate"
 choco install sql-server-management-studio
 
 choco pin add --name=docker-desktop
