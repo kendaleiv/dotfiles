@@ -15,8 +15,10 @@ dotpeek                                ^
 fiddler                                ^
 filezilla                              ^
 firefox                                ^
+graphviz                               ^
 git.install                            ^
 grepwin                                ^
+hugo-extended                          ^
 inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
