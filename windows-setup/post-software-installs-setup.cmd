@@ -31,17 +31,6 @@ call npm config set python C:\tools\python2
 call npm install -g node-gyp
 
 echo.
-echo ## Visual Studio Code
-echo.
-
-call code --install-extension cake-build.cake-vscode
-call code --install-extension eamodio.gitlens
-call code --install-extension EditorConfig.EditorConfig
-call code --install-extension formulahendry.dotnet-test-explorer
-call code --install-extension ms-vscode.csharp
-call code --install-extension octref.vetur
-
-echo.
 echo ## Generate SSH key
 echo.
 
