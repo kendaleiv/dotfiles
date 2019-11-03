@@ -9,7 +9,6 @@ googlechrome-zenhub                    ^
 7zip.install                           ^
 audacity                               ^
 azure-data-studio                      ^
-cmder                                  ^
 cutepdf                                ^
 docker-desktop                         ^
 dotpeek                                ^
@@ -25,6 +24,7 @@ inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
 lockhunter                             ^
+microsoft-windows-terminal             ^
 nodejs                                 ^
 notepadplusplus                        ^
 nuget.commandline                      ^
