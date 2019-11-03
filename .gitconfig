@@ -17,8 +17,11 @@
   l = !"git lg1"
 [pull]
   ff = only
+  rebase = true
 [push]
   default = simple
+[rebase]
+  autoStash = true
 [diff]
   guitool = kdiff3
 [difftool]
