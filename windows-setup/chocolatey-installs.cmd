@@ -30,6 +30,7 @@ notepadplusplus                        ^
 nuget.commandline                      ^
 nugetpackageexplorer                   ^
 paint.net                              ^
+poshgit                                ^
 papercut                               ^
 postman                                ^
 procexp                                ^
