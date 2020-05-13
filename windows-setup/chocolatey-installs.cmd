@@ -40,7 +40,6 @@ ruby                                   ^
 screentogif                            ^
 slack                                  ^
 sysinternals                           ^
-vim                                    ^
 vlc                                    ^
 wcat                                   ^
 windirstat                             ^
