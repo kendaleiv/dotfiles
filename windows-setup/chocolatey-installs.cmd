@@ -9,7 +9,6 @@ googlechrome-zenhub                    ^
 7zip.install                           ^
 audacity                               ^
 azure-data-studio                      ^
-cutepdf                                ^
 docker-desktop                         ^
 dotpeek                                ^
 fiddler                                ^
