@@ -4,14 +4,12 @@
 
 choco install -y                       ^
 googlechrome                           ^
-googlechrome-zenhub                    ^
 7zip.commandline                       ^
 7zip.install                           ^
 audacity                               ^
 azure-data-studio                      ^
 docker-desktop                         ^
 dotpeek                                ^
-fiddler                                ^
 filezilla                              ^
 firefox                                ^
 graphviz                               ^
@@ -38,10 +36,8 @@ python                                 ^
 quicktime                              ^
 ruby                                   ^
 screentogif                            ^
-slack                                  ^
 sysinternals                           ^
 vlc                                    ^
-wcat                                   ^
 windirstat                             ^
 winscp                                 ^
 wireshark                              ^
@@ -53,7 +49,6 @@ choco install sql-server-management-studio
 choco pin add --name=docker-desktop
 choco pin add --name=googlechrome
 choco pin add --name=microsoft-teams
-choco pin add --name=slack
 
 choco install -y spotify
 choco pin add --name=spotify
