@@ -42,9 +42,9 @@ windirstat                             ^
 winscp                                 ^
 wireshark                              ^
 
-choco install vscode --params "/NoDesktopIcon"
-choco install msys2 --params "/NoUpdate"
-choco install sql-server-management-studio
+choco install -y vscode --params "/NoDesktopIcon"
+choco install -y msys2 --params "/NoUpdate"
+choco install -y sql-server-management-studio
 
 choco pin add --name=docker-desktop
 choco pin add --name=googlechrome
