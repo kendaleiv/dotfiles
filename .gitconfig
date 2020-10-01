@@ -9,7 +9,8 @@
   co = checkout
   d = diff --patch-with-stat
   s = status
-  p = push --force-with-lease
+  p = pull
+  pf = push --force-with-lease
   re = rebase
 
   # https://stackoverflow.com/a/9074343/941536
