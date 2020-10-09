@@ -11,6 +11,9 @@
   s = status
   p = pull
   pf = push --force-with-lease
+  fp = push --force-with-lease
+  pfo = push --force-with-lease origin head
+  fpo = push --force-with-lease origin head
   re = rebase
 
   # https://stackoverflow.com/a/9074343/941536
