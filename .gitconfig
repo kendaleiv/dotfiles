@@ -10,6 +10,7 @@
   d = diff --patch-with-stat
   s = status
   p = pull
+  po = push origin head
   pf = push --force-with-lease
   fp = push --force-with-lease
   pfo = push --force-with-lease origin head
