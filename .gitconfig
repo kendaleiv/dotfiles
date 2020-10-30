@@ -4,6 +4,8 @@
 [core]
   autocrlf = true
   ignorecase = false
+[init]
+  defaultBranch = main
 [alias]
   c = commit
   co = checkout
