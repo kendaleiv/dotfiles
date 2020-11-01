@@ -29,10 +29,3 @@ echo.
 call npm install --global --production windows-build-tools
 call npm config set python C:\tools\python2
 call npm install -g node-gyp
-
-echo.
-echo ## Generate SSH key
-echo.
-
-call mkdir "C:%HOMEPATH%\.ssh"
-call ssh-keygen -f "C:%HOMEPATH%\.ssh\id_rsa" -t rsa -N ""
