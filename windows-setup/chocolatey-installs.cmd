@@ -45,7 +45,5 @@ choco install -y vscode --params "/NoDesktopIcon"
 choco install -y msys2 --params "/NoUpdate"
 choco install -y sql-server-management-studio
 
-choco pin add --name=googlechrome
-
 choco install -y spotify
 choco pin add --name=spotify
