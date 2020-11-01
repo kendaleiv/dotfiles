@@ -21,7 +21,6 @@ inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
 lockhunter                             ^
-microsoft-teams                        ^
 microsoft-windows-terminal             ^
 nodejs                                 ^
 notepadplusplus                        ^
@@ -48,7 +47,6 @@ choco install -y sql-server-management-studio
 
 choco pin add --name=docker-desktop
 choco pin add --name=googlechrome
-choco pin add --name=microsoft-teams
 
 choco install -y spotify
 choco pin add --name=spotify
