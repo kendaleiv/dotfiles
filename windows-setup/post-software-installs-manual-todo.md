@@ -13,6 +13,10 @@
 
 - Disable automatic updates (Chocolatey will perform updates)
 
+# Azure Artifacts Credential Provider
+
+- https://github.com/Microsoft/artifacts-credprovider
+
 # Misc
 
 - Adjust sleep settings
