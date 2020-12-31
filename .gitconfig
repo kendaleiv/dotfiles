@@ -13,10 +13,10 @@
   s = status
   p = pull
   po = push origin head
-  pf = push --force-with-lease
-  fp = push --force-with-lease
-  pfo = push --force-with-lease origin head
-  fpo = push --force-with-lease origin head
+  pf = push --force-with-lease --force-if-includes
+  fp = push --force-with-lease --force-if-includes
+  pfo = push --force-with-lease --force-if-includes origin head
+  fpo = push --force-with-lease --force-if-includes origin head
   re = rebase
 
   # https://stackoverflow.com/a/9074343/941536
