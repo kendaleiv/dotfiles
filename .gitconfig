@@ -4,6 +4,7 @@
 [core]
   autocrlf = true
   ignorecase = false
+  longpaths = true
 [init]
   defaultBranch = main
 [alias]
