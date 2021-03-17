@@ -32,7 +32,6 @@ postman                                ^
 procexp                                ^
 putty                                  ^
 python                                 ^
-quicktime                              ^
 ruby                                   ^
 screentogif                            ^
 sysinternals                           ^
