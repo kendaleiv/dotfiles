@@ -27,7 +27,6 @@ notepadplusplus                        ^
 nuget.commandline                      ^
 nugetpackageexplorer                   ^
 paint.net                              ^
-poshgit                                ^
 postman                                ^
 procexp                                ^
 putty                                  ^
