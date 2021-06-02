@@ -33,7 +33,6 @@ putty                                  ^
 python                                 ^
 ruby                                   ^
 screentogif                            ^
-sysinternals                           ^
 vlc                                    ^
 windirstat                             ^
 winscp                                 ^
