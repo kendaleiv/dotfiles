@@ -26,6 +26,7 @@ nodejs                                 ^
 notepadplusplus                        ^
 nuget.commandline                      ^
 nugetpackageexplorer                   ^
+obs-studio                             ^
 paint.net                              ^
 postman                                ^
 procexp                                ^
