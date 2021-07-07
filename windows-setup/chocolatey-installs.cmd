@@ -6,7 +6,6 @@ choco install -y                       ^
 googlechrome                           ^
 7zip.commandline                       ^
 7zip.install                           ^
-audacity                               ^
 azure-data-studio                      ^
 docker-desktop                         ^
 dotpeek                                ^
