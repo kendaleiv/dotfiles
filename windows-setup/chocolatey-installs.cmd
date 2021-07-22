@@ -35,6 +35,7 @@ ruby                                   ^
 screentogif                            ^
 vlc                                    ^
 windirstat                             ^
+winmerge                               ^
 winscp                                 ^
 wireshark                              ^
 
