@@ -7,7 +7,6 @@ googlechrome                           ^
 7zip.commandline                       ^
 7zip.install                           ^
 azure-data-studio                      ^
-docker-desktop                         ^
 dotpeek                                ^
 filezilla                              ^
 firefox                                ^
