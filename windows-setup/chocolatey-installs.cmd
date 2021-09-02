@@ -14,7 +14,6 @@ graphviz                               ^
 git.install                            ^
 git-lfs                                ^
 grepwin                                ^
-hugo-extended                          ^
 inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
