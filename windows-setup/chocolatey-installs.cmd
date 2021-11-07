@@ -17,7 +17,6 @@ grepwin                                ^
 inkscape                               ^
 kdiff3                                 ^
 linqpad4                               ^
-lockhunter                             ^
 microsoft-windows-terminal             ^
 nodejs                                 ^
 notepadplusplus                        ^
