@@ -12,7 +12,3 @@
 # Azure Artifacts Credential Provider
 
 - https://github.com/Microsoft/artifacts-credprovider
-
-# Misc
-
-- Adjust sleep settings
