@@ -16,7 +16,6 @@ git-lfs                                ^
 grepwin                                ^
 inkscape                               ^
 kdiff3                                 ^
-linqpad4                               ^
 microsoft-windows-terminal             ^
 nodejs                                 ^
 notepadplusplus                        ^
