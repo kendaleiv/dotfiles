@@ -9,10 +9,6 @@
 - High quality streaming
 - Enable Crossfade tracks
 
-# Configure Docker Desktop
-
-- Disable automatic updates (Chocolatey will perform updates)
-
 # Azure Artifacts Credential Provider
 
 - https://github.com/Microsoft/artifacts-credprovider
