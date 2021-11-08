@@ -20,9 +20,3 @@ echo.
 
 call ridk install 2 3
 call gem install jekyll
-
-echo.
-echo ## npm installs
-echo.
-
-call npm install -g node-gyp
