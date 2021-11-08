@@ -25,6 +25,4 @@ echo.
 echo ## npm installs
 echo.
 
-call npm install --global --production windows-build-tools
-call npm config set python C:\tools\python2
 call npm install -g node-gyp
