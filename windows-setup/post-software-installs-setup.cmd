@@ -18,5 +18,5 @@ echo.
 echo ## Ruby
 echo.
 
+call gem install bundler
 call ridk install 2 3
-call gem install jekyll
