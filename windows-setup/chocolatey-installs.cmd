@@ -36,8 +36,12 @@ winscp                                 ^
 wireshark                              ^
 
 choco install -y vscode --params "/NoDesktopIcon"
-choco install -y msys2 --params "/NoUpdate"
 choco install -y sql-server-management-studio
+
+choco install -y ruby --version=2.7.6.1
+choco pin add --name=ruby
+choco pin add --name=ruby.install
+choco install -y msys2
 
 choco install -y spotify
 choco pin add --name=spotify
