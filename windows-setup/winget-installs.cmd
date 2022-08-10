@@ -6,6 +6,7 @@ winget install KDE.KDiff3 --exact --source winget
 winget install Microsoft.AzureCLI --exact --source winget
 winget install Microsoft.AzureDataStudio --exact --source winget
 winget install Microsoft.AzureStorageExplorer --exact --source winget
+winget install Microsoft.PowerShell --exact --source winget
 winget install Microsoft.SQLServerManagementStudio --exact --source winget
 winget install Microsoft.VisualStudioCode --exact --source winget
 winget install Microsoft.WindowsTerminal --exact --source winget
