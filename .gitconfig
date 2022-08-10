@@ -32,18 +32,12 @@
   default = simple
 [rebase]
   autoStash = true
-[diff]
-  guitool = kdiff3
-[difftool]
-  prompt = false
-[difftool "kdiff3"]
-  path = C:/Program Files/KDiff3/kdiff3.exe
 [merge]
-  tool = kdiff3
+  tool = code
 [mergetool]
   keepBackup = false
-[mergetool "kdiff3"]
-  path = C:/Program Files/KDiff3/kdiff3.exe
+[mergetool "code"]
+  cmd = code --wait --merge $REMOTE $LOCAL $BASE $MERGED
 [gui]
   gcwarning = false
 
@@ -63,3 +57,8 @@
   added = yellow
   changed = green
   untracked = cyan
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
