@@ -18,5 +18,4 @@ winget install 9WZDNCRDMDM3 --exact --source msstore
 winget install OpenJS.NodeJS --exact --source winget
 winget install Postman.Postman --exact --source winget
 winget install StefansTools.grepWin --exact --source winget
-winget install WinDirStat.WinDirStat --exact --source winget
 winget install WiresharkFoundation.Wireshark --exact --source winget
