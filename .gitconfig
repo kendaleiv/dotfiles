@@ -1,6 +1,9 @@
 [user]
   name = Ken Dale
   email = ken@kendaleiv.com
+[includeIf "hasconfig:remote.*.url:https://*@dev.azure.com/**"]
+  [user]
+    email = FILL_THIS_IN
 [core]
   autocrlf = true
   ignorecase = false
