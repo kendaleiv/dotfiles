@@ -1,9 +1,10 @@
 [user]
   name = Ken Dale
   email = ken@kendaleiv.com
-[includeIf "hasconfig:remote.*.url:*@*dev.azure.com**"]
-  [user]
-    email = FILL_THIS_IN
+[includeIf "hasconfig:remote.*.url:https://*dev.azure.com/**"]
+  path = ~/.gitconfig-Azure-DevOps
+[includeIf "hasconfig:remote.*.url:git@ssh.dev.azure.com:v3/**"]
+  path = ~/.gitconfig-Azure-DevOps
 [core]
   autocrlf = true
   ignorecase = false
