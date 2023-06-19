@@ -1,4 +1,3 @@
-winget install 7zip.7zip --exact --source winget
 winget install Git.Git --exact --source winget
 winget install GitHub.GitLFS --exact --source winget
 winget install Google.Chrome --exact --source winget
@@ -8,7 +7,6 @@ winget install Microsoft.AzureStorageExplorer --exact --source winget
 winget install Microsoft.PowerShell --exact --source winget
 winget install Microsoft.SQLServerManagementStudio --exact --source winget
 winget install Microsoft.VisualStudioCode --exact --source winget
-winget install Microsoft.WindowsTerminal --exact --source winget
 winget install Mozilla.Firefox --exact --source winget
 
 REM NuGet Package Explorer
