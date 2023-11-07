@@ -1,10 +1,5 @@
 [user]
   name = Ken Dale
-  email = ken@kendaleiv.com
-[includeIf "hasconfig:remote.*.url:https://*dev.azure.com/**"]
-  path = ~/.gitconfig-Azure-DevOps
-[includeIf "hasconfig:remote.*.url:git@ssh.dev.azure.com:v3/**"]
-  path = ~/.gitconfig-Azure-DevOps
 [core]
   autocrlf = true
   ignorecase = false
@@ -62,7 +57,7 @@
   changed = green
   untracked = cyan
 [filter "lfs"]
-	process = git-lfs filter-process
-	required = true
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
