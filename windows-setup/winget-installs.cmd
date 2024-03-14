@@ -7,4 +7,3 @@ winget install Microsoft.PowerShell --exact --source winget
 winget install Microsoft.VisualStudioCode --exact --source winget
 winget install Mozilla.Firefox --exact --source winget
 winget install OpenJS.NodeJS --exact --source winget
-winget install Postman.Postman --exact --source winget
